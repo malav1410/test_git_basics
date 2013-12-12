@@ -15,3 +15,5 @@ puts "MASTER = #{MASTER.to_s}"
 puts "HEAD = #{HEAD.to_s}"
 puts "FIRST_COMMIT = #{FIRST_COMMIT.to_s}"
 puts "SECOND_COMMIT = #{SECOND_COMMIT.to_s}"
+
+V_4_0_0 = HEAD
