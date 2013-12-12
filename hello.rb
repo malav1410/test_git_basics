@@ -2,6 +2,7 @@ FIRST_COMMIT = { changes: "puts hello world" }
 
 MASTER = FIRST_COMMIT
 HEAD = FIRST_COMMIT
+HEAD = FIRST_COMMIT
 
 puts "MASTER = #{MASTER.to_s}"
 puts "HEAD = #{HEAD.to_s}"
